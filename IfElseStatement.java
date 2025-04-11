@@ -8,3 +8,4 @@ public class IfElseStatement{
 			System.out.printf("Your age is %d and you are still a minor",age);
 		}
 	}
+}
